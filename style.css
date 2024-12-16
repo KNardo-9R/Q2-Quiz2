@@ -1,0 +1,42 @@
+*{
+
+}
+
+body{ 
+  background-image: url("robotic background.jpg"); 
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+img{
+  width:50%;
+  height:50%;
+}
+
+.home{ 
+  background-color: rgba(0,0,0,0.60);
+  text-align:center;
+  img-width: 70%;
+}
+
+.form {
+  background-color: rgba(0,0,0.60);
+  padding:5px;
+  justify-content: center;
+}
+
+.contact{
+  background-color: rgba(0,0,0.60);
+  padding:5px;
+  justify-content: center;
+  text-align:center;
+}
+
+.footer{
+  text-align:center;
+  background-color: lightgrey;
+  color:whitesmoke;
+  padding:15px;
+}
